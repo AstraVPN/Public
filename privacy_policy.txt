@@ -1,0 +1,55 @@
+Astra VPN Privacy Policy
+
+This Privacy Policy describes what data is collected, used and shared by the Astra VPN application developed by REDIZIT.
+Privacy Policy Questions: iv24032004@gmail.com
+
+
+1. Data We DO NOT Collect
+
+We adhere to a strict no-logs policy to ensure your anonymity. We DO NOT collect (store) the following data:
+- Your original IP address and the IP addresses of the VPN servers you connect to.
+- Your browsing history: any websites, services or applications you use while connected to the VPN.
+- DNS requests that your device generates.
+- The content of your traffic, such as emails, messages or downloaded files.
+
+
+2. Data We Collect
+
+We collect the minimum amount of data necessary solely to operate and improve our service.
+- Aggregated connection data. We collect anonymous information about the connection session: VPN connection time and the total amount of traffic transferred during the session. This data is not linked to your identity or IP address and is used solely to analyze server loads and plan network capacity.
+- Error and crash data. To ensure the stability of the application, we use Android Vitals to collect anonymous crash reports. These reports may contain information about your device model and OS version, but do not contain personal data and are used only to identify and fix technical problems.
+
+
+3. How we use the collected data
+
+The collected anonymous information is used for the following purposes:
+- Providing and improving the VPN service: analyzing the server load to maintain high speed and stability of the connection.
+- Ensuring stable operation of the application: diagnosing and fixing technical problems and crashes.
+
+
+4. Transferring data to third parties
+
+To support the operation of Astra VPN as a free application, we use advertising.
+- Yandex Advertising Network (YAN). We have integrated the Yandex Advertising Network SDK to display ads in the app. YAN may collect and use technical data and device identifiers (such as the Google advertising ID) to select relevant ads. We do not transfer any data about your VPN traffic to Yandex. We recommend that you read Yandex's privacy policy for more information: https://yandex.ru/legal/confidential/
+
+Apart from YAN, we do not transfer any data to third parties.
+
+
+5. Data security
+
+We take the security of your data seriously. All your Internet traffic is protected using our own Dark Astra protocol. To establish a secure tunnel, AES-256 asymmetric encryption is used to reliably transmit the ChaCha20 symmetric encryption key, which is then used to encrypt all your traffic. Encryption keys are stored on the server only for the duration of the session. When disconnected, all keys are deleted.
+
+
+6. Data storage
+
+We do not store any personal user data. Anonymous and aggregated server load data may be stored for a limited period of time as needed for infrastructure analysis and planning.
+
+
+7. User Rights
+
+Since we do not collect or store any information that could identify you as a user, requests to access, change or delete personal data are not applicable.
+
+
+8. Changes to the Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the app and on its Google Play store page.
